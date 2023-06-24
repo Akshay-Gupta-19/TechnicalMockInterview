@@ -1,0 +1,14 @@
+
+1. User can register
+2. User can check balance with given wallet unique name, add money, send money to a unique id
+   also present in phone pay
+3. transaction book keeping and user can check transactions in a given time range
+
+
+//Improvents for future
+1. User front end improvement
+    a. user should register
+    b. user should get a interface to bank to expose some limited functionality
+2. Wallet should have interface to be able to extend all kind of currency
+3. id can be generated async by a background assisstent
+4. data structure to keep transaction
